@@ -1,0 +1,3 @@
+module secret_design
+ a = !b ^ c
+end module
